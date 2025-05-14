@@ -6,7 +6,7 @@ This dataset was collected by us using the low-resolution infrared imaging modul
 ![alt text](preprocessing.png "Devices & Preprocessing")
 ![alt text](result.png "Predict Result")
 
-
+Check out the codes in another repo [here](https://github.com/InfoLab-SKKU/Thermal-Human-Detection)
 ## Citation
 We would appreciate it if you would consider citing our work when using our code.
 
